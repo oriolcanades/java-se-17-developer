@@ -1,4 +1,4 @@
-public class MyClass {
+public class TestClass7 {
     public static void main(String args[]) {
         var test = "Hello";
         // var can be reasigned to null value

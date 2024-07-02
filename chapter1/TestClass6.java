@@ -1,4 +1,4 @@
-public class MyClass {
+public class TestClass6 {
     public static void main(String args[]) {
         String v1 = "1", v2, v3="3", v4, v5, v6="6";
 

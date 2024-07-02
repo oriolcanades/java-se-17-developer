@@ -1,4 +1,5 @@
-public class MyClass {
+public class TestClass8 {
+
     public static void main(String args[]) {
         var test = "Hello";
         // var can be reasigned to null value
@@ -7,4 +8,5 @@ public class MyClass {
         // but cannot be initialized as null
         // var test2 = null // Does not compile
     }
+
 }

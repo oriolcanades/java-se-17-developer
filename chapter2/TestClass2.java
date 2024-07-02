@@ -1,4 +1,4 @@
-public class MyClass {
+public class TestClass2 {
     public static void main(String args[]) {
         int owl = 5; 
         int food = owl < 2 ? 3 : 4;

@@ -1,4 +1,4 @@
-public class MyClass {
+public class TestClass1 {
     public static void main(String args[]) {
         //Duck duck = new Duck(4);
         Duck duck = null;

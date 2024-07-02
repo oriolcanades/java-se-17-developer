@@ -1,4 +1,4 @@
-public class MyClass {
+public class TestClass3 {
     public static void main(String args[]) {
       int hourOfDay=23;
       if(hourOfDay < 11) {   
